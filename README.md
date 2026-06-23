@@ -7,3 +7,4 @@ I will say that all code in this repo will (hopefully) be typed, not generated; 
 
 ## Progress
 - 6/21/2026 - first commit
+- 6/23/2026 - scaffold implementation (w/ AI)
